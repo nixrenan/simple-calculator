@@ -1,2 +1,2 @@
 # simple-calculator
-JavaScript Simpke Calculator
+Special thanks for Bro Code, https://www.youtube.com/@BroCodez !
